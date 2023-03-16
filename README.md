@@ -1,9 +1,9 @@
 
 ---
-title: MDEF 22/23 - Pixel Cubes
+MDEF 22/23 - Pixel Cubes
 ---
 
-###### tags: `MDEF` `Fab Lab Barcelona`
+###### `MDEF` `Fab Lab Barcelona`
 
 
 Challenge II: Pixel Cubes
@@ -27,7 +27,7 @@ Interventions: Research Project
 - How to define a DIY Kit to allow everyone to create 3D models
 - Create a process between physical and digital.
 
-We decided to continue the [first Challenge](https://github.com/paresmarc/tiledeco) and develop iterations to improve it and make it a more automatised process.
+We decided to continue the [first Challenge](https://github.com/paresmarc/tiledeco) and develop iterations to improve it and make it a more automated process.
 
 ## #2 Project Development
 
@@ -39,5 +39,7 @@ Artifact Description:
 - A camera connected to Firefly, Grasshopper detect and know the location and height of each cube.
 - Once the cubes have the desired shape, the camera scans them and generates a volume.
 - With that, you can export a 3D file and reproduce it with digital fabrication machines.
+
+![](images/system.jpg)
 
 ## #3 Final Product
