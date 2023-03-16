@@ -42,4 +42,9 @@ Artifact Description:
 
 ![](images/system.jpg)
 
+**Flow Chart:**
+
+![](images/flowchart.jpg)
+
+
 ## #3 Final Product
