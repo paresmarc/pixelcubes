@@ -14,7 +14,7 @@ Challenge II: Pixel Cubes
 
 1. [**Project Alignment**](#1-Project-alignment)
 2. [**Project Development**](#2-Project-development)
-3. [**Final Product**](#3-Rethink-and-reconnect)
+3. [**Final Product**](#3-Final-product)
 
 ## #1 Project Alignment
 
@@ -31,6 +31,15 @@ We decided to continue the [first Challenge](https://github.com/paresmarc/tilede
 
 ## #2 Project Development
 
+**Design Steps:**
+1. Interactive physical modular system to create myriad volumes (cubes)
+2. Research around webcam detection software of movement and rotation of shapes (Fiducial ID, Firefly)
+3. How to combine and assemble cubes in order to create volumes (magnets, polarity)
+4. Make the user interact with the Software. Incorporate Arduino (button to restart)
+5.
+
+![](images/system.jpg)
+
 Artifact Description:
 
 - Physical Interactive space with cubes like pixels.
@@ -40,11 +49,19 @@ Artifact Description:
 - Once the cubes have the desired shape, the camera scans them and generates a volume.
 - With that, you can export a 3D file and reproduce it with digital fabrication machines.
 
-![](images/system.jpg)
-
-**Flow Chart:**
+*Flow Chart:*
 
 ![](images/flowchart.jpg)
 
+**Challenge II Presentation**
+
+![](images/pixelcubes.png)
+
+https://www.canva.com/design/DAFddcJntxw/8B6KbJQokXqWEhVzVGpUdw/edit
+
 
 ## #3 Final Product
+
+//fotos
+
+* This project allowed us to improve the first Challenge, Tile Deco. With the Fiducial ID we are able to detect different types of shapes, the movement and rotation. Also, this system can digitalise and vectorize the shapes in an automatic process. This makes the design more straight forward and allow the user to center his attention on the design and see in live how the full pattern is looking in the digital.
