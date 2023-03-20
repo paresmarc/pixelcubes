@@ -55,14 +55,9 @@ Artifact Description:
 
 **Challenge II Presentation**
 
-![](images/pixelcubes.png)
-
-
 <a href="/files/PixelCubes.pdf" class="image fit"><img src="images/pixelcubes.png" alt=""></a>
 
-[embed]https://paresmarc.github.io/pixelcubes/files/PixelCubes.pdf[/embed]
-
-https://www.canva.com/design/DAFddcJntxw/8B6KbJQokXqWEhVzVGpUdw/edit
+[Canva Presentation](https://www.canva.com/design/DAFddcJntxw/8B6KbJQokXqWEhVzVGpUdw/edit)
 
 Introduction:
 
