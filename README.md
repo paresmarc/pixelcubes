@@ -57,7 +57,37 @@ Artifact Description:
 
 ![](images/pixelcubes.png)
 
+[embed]http://https://github.com/paresmarc/pixelcubes/files/PixelCubes.pdf[/embed]
+
 https://www.canva.com/design/DAFddcJntxw/8B6KbJQokXqWEhVzVGpUdw/edit
+
+Introduction:
+
+We had initially designed a tile decorating kit during Challenge I, which we decided to develop further. Our main goal was to focus on digitalization to make the kit more accessible and easier to use. Additionally, we wanted to upgrade the kit from 2D to 3D. Our aim was to use the project as a playground to explore 3D fabrication, which acts as a bridge between a physical object and its digital representation.
+
+Research:
+
+To assist with our project, we researched reference projects such as MIT's interactive shape-shifting table and Reactivision Improvisation with MIDI (Reactable). However, we had to simplify our goals due to time constraints.
+
+Digitalization:
+
+We began by focusing on the digitalization process. We researched and discovered a system called "fiducial id," which works through cameras and is similar to QR codes. However, fiducial IDs have more organic shapes. We used Grasshopper-Rhinoceros with a plug-in program called "Firefly" to capture the fiducial IDs. Each cube that was placed on the grid had a unique "Fiducial ID" that gave it a parameter on the Z axis to help form a unique 3D design.
+
+We programmed the Grasshopper to detect the grid made of 6x6 slots to frame the design area and make the post-digitalization process easier. However, we faced problems when the camera detected the fiducials repeatedly, which created trash on the system. We solved this problem by resetting the system.
+
+Physical Object:
+
+We also worked on the physical object, which consisted of cubes made of wood. Initially, we had 3D printed the cubes, which were made of two parts and used six magnets. However, this method was not appropriate because it took three hours to print each cube. Therefore, we decided to build the cubes out of wood and insert the magnets on surfaces.
+
+To ensure free availability while interacting with the cubes, we used sphere-shaped magnets that could move inside a cavity and position themselves in the precise polarity to connect with the magnet of the next cube. We designed a magnet insert for each magnet to solve that problem, and we 3D printed them with a SLA printer with resin.
+
+However, we faced challenges when we tried to raster the fiducials on the cubes with a laser cutter. The camera did not detect them due to the low contrast with the wood grain. Therefore, we engraved the outlines and drew by hand at the end. We also had trouble cutting the cubes out of the oak block as the block was 33 mm thick. We used the RhinoCam-CNC and discovered the facing function, which provided the carving function with an end mill that had a 30mm diameter. However, we were losing a lot of material due to the space between pieces. Therefore, we decided to cut the cubes with the circular table saw.
+
+We also used the CNC machine to build the grid out of plywood. We designed and laser-cut acrylic to build a structure to hold the camera above the grid. This structure was designed to be located in different positions on the grid to capture the cubes clearly.
+
+Conclusion:
+
+In conclusion, we successfully developed our tile decorating kit by focusing on digitalization and upgrading it to 3D. We faced challenges during the process, but we were able to solve them and develop a unique and innovative product. Our project is an excellent example of how technology can be used to enhance and improve traditional crafts.
 
 
 ## #3 Final Product
