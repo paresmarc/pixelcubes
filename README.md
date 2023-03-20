@@ -79,8 +79,14 @@ We began by focusing on the digitalization process. We researched and discovered
 
 We programmed the Grasshopper to detect the grid made of 6x6 slots to frame the design area and make the post-digitalization process easier. However, we faced problems when the camera detected the fiducials repeatedly, which created trash on the system. We solved this problem by resetting the system.
 
+![](images/test1.gif)
+*Firsts Tests with Fiducial IDs and Firefly*
+
 ![](images/connect.jpg)
 *Digital Interface*
+
+![](images/test2.gif)
+*Tests with Fiducial IDs and Firefly, applying 3D Cube Models*
 
 Physical Object:
 
@@ -98,6 +104,9 @@ To ensure free availability while interacting with the cubes, we used sphere-sha
 *One Insert with supports*
 
 However, we faced challenges when we tried to raster the fiducials on the cubes with a laser cutter. The camera did not detect them due to the low contrast with the wood grain. Therefore, we engraved the outlines and drew by hand at the end. We also had trouble cutting the cubes out of the oak block as the block was 33 mm thick. We used the RhinoCam-CNC and discovered the facing function, which provided the carving function with an end mill that had a 30mm diameter. However, we were losing a lot of material due to the space between pieces. Therefore, we decided to cut the cubes with the circular table saw.
+
+![](images/iDlaser.gif)
+*Engraving Fiducial IDs on Cubes*
 
 ![](images/cutcubes.png)
 *Cutting Cubes*
@@ -121,6 +130,9 @@ We also used the CNC machine to build the grid out of plywood. We designed and l
 
 ![](images/cameramount.png)
 *Camera Mount laser cutted*
+
+![](images/CNCbase.gif)
+*Cutting the Grid Base with CNC*
 
 ![](images/gridmount.png)
 *Base Grid and Camera Mount*
