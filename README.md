@@ -57,7 +57,7 @@ Artifact Description:
 
 ![](images/pixelcubes.png)
 
-[embed]http://https://github.com/paresmarc/pixelcubes/files/PixelCubes.pdf[/embed]
+[embed]https://paresmarc.github.io/pixelcubes/files/PixelCubes.pdf[/embed]
 
 https://www.canva.com/design/DAFddcJntxw/8B6KbJQokXqWEhVzVGpUdw/edit
 
